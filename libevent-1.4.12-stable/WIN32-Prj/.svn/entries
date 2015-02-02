@@ -1,0 +1,88 @@
+10
+
+dir
+281215
+https://svn-dhxy3.gz.netease.com/dh3/dh25/server/3rd/libevent-1.4.12-stable/WIN32-Prj
+https://svn-dhxy3.gz.netease.com/dh3
+
+
+
+2009-11-16T06:31:58.605149Z
+133366
+gorden
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d8779474-0b14-0410-a238-d5e134b9c0b8
+
+event_test
+dir
+
+libevent.sln
+file
+
+
+
+
+2013-05-31T09:43:49.000000Z
+f6989abfc8e62530d33a6264ff0bf285
+2009-11-16T06:31:58.605149Z
+133366
+gorden
+
+libevent.dsw
+file
+
+
+
+
+2013-05-31T09:43:49.000000Z
+0c70329be5c8ee4fcd24a358d3f8431e
+2009-11-16T06:31:58.605149Z
+133366
+gorden
+
+regress
+dir
+
+libevent.vcproj
+file
+
+
+
+
+2013-05-31T09:43:49.000000Z
+2ed2fbad02d873fac9d088dcb125a1b0
+2009-11-16T06:31:58.605149Z
+133366
+gorden
+
+signal_test
+dir
+
+time_test
+dir
+
+libevent.dsp
+file
+
+
+
+
+2013-05-31T09:43:49.000000Z
+7942e1618a5adc4930923ac6551da0a5
+2009-11-16T06:31:58.605149Z
+133366
+gorden
+

@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 68
+bench
+test-init
+test-eof
+.libs
+test-time
+Makefile
+regress
+test-weof
+
+END

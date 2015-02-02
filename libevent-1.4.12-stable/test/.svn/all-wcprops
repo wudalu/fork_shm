@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/dh3/!svn/ver/199109/dh25/server/3rd/libevent-1.4.12-stable/test
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/dh3/!svn/ver/160414/dh25/server/3rd/libevent-1.4.12-stable/test/Makefile.in
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/dh3/!svn/ver/160414/dh25/server/3rd/libevent-1.4.12-stable/test/test.sh
+END
+regress_http.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/dh3/!svn/ver/160414/dh25/server/3rd/libevent-1.4.12-stable/test/regress_http.c
+END
+regress.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/dh3/!svn/ver/160414/dh25/server/3rd/libevent-1.4.12-stable/test/regress.c
+END
+test-time.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/dh3/!svn/ver/160414/dh25/server/3rd/libevent-1.4.12-stable/test/test-time.c
+END
+regress.rpc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/dh3/!svn/ver/160414/dh25/server/3rd/libevent-1.4.12-stable/test/regress.rpc
+END
+test-weof.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/dh3/!svn/ver/160414/dh25/server/3rd/libevent-1.4.12-stable/test/test-weof.c
+END
+regress_rpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/dh3/!svn/ver/160414/dh25/server/3rd/libevent-1.4.12-stable/test/regress_rpc.c
+END
+regress_dns.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/dh3/!svn/ver/160414/dh25/server/3rd/libevent-1.4.12-stable/test/regress_dns.c
+END
+regress.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/dh3/!svn/ver/160414/dh25/server/3rd/libevent-1.4.12-stable/test/regress.h
+END
+bench.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/dh3/!svn/ver/160414/dh25/server/3rd/libevent-1.4.12-stable/test/bench.c
+END
+test-init.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/dh3/!svn/ver/160414/dh25/server/3rd/libevent-1.4.12-stable/test/test-init.c
+END
+regress.gen.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/dh3/!svn/ver/160414/dh25/server/3rd/libevent-1.4.12-stable/test/regress.gen.c
+END
+test-eof.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/dh3/!svn/ver/160414/dh25/server/3rd/libevent-1.4.12-stable/test/test-eof.c
+END
+regress.gen.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/dh3/!svn/ver/160414/dh25/server/3rd/libevent-1.4.12-stable/test/regress.gen.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/dh3/!svn/ver/160414/dh25/server/3rd/libevent-1.4.12-stable/test/Makefile.am
+END

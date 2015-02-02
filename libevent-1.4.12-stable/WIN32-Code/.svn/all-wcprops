@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/dh3/!svn/ver/160414/dh25/server/3rd/libevent-1.4.12-stable/WIN32-Code
+END
+win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/dh3/!svn/ver/160414/dh25/server/3rd/libevent-1.4.12-stable/WIN32-Code/win32.c
+END
+tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dh3/!svn/ver/160414/dh25/server/3rd/libevent-1.4.12-stable/WIN32-Code/tree.h
+END
+event-config.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/dh3/!svn/ver/160414/dh25/server/3rd/libevent-1.4.12-stable/WIN32-Code/event-config.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/dh3/!svn/ver/160414/dh25/server/3rd/libevent-1.4.12-stable/WIN32-Code/config.h
+END
